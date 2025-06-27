@@ -1,4 +1,6 @@
-# practica_1
+# Actividad 1: Uso de widget Scaffold + Navigation
+
+2230653 ISC - 91
 
 A new Flutter project.
 
